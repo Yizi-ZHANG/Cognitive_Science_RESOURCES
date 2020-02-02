@@ -11,9 +11,9 @@
 
 - 00_How_to_Read_a_Book（如何阅读一本书）【先看看怎么读书再读书吧，五六十年前的经典，至今国内无见超越者】
 ![2020-2-2_README_20200202000747.png](https://cdn.jsdelivr.net/gh/Yizi-ZHANG/Images@master/Picgo/2020-2-2_README_20200202000747.png)
-- 01_How_We_Learn（如何学习）【比较全面地介绍了各种可靠的学习方法，会与下面一些书的内容有重叠，时间紧看着一本就行】
+- 01_How_We_Learn（如何学习）【比较全面地介绍了各种可靠的学习方法，会与下面一些书的内容有重叠，时间紧看这一本就行】
 ![2020-1-25_Read_Me_Cognitive_Psychology_20200125212931.png](https://cdn.jsdelivr.net/gh/Yizi-ZHANG/Images@master/Picgo/2020-1-25_Read_Me_Cognitive_Psychology_20200125212931.png)
-- 02_Make_It_Stick（认知天性，这题目翻译真烂）
+- 02_Make_It_Stick（认知天性，这题目翻译得真烂）
 ![2020-1-25_Read_Me_Cognitive_Psychology_20200125212907.png](https://cdn.jsdelivr.net/gh/Yizi-ZHANG/Images@master/Picgo/2020-1-25_Read_Me_Cognitive_Psychology_20200125212907.png)
 - 03_A_Mind_for_Numbers（学习之道）
 ![2020-1-25_Read_Me_Cognitive_Psychology_20200125213012.png](https://cdn.jsdelivr.net/gh/Yizi-ZHANG/Images@master/Picgo/2020-1-25_Read_Me_Cognitive_Psychology_20200125213012.png)
@@ -36,7 +36,7 @@
 
 ### About Willpower（主要关于意志力）
 
-总有人说研究这么多学习方法意志用就是白扯，那就好好看看意志力方面的书吧，保证你大开眼界，有所收获！
+总有人说研究这么多学习方法没意志力用就是白扯，那就好好看看意志力方面的书吧，保证你大开眼界，有所收获！
 
 - 00_Willpower（意志力）【本领域的经典之作，其他的书很多基于这本的知识拓展开来】
 ![2020-2-2_README_20200202000256.png](https://cdn.jsdelivr.net/gh/Yizi-ZHANG/Images@master/Picgo/2020-2-2_README_20200202000256.png)
